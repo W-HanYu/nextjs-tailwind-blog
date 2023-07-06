@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: '狂奔滴小马 | 前端工程师成长部落阁',
-  author: '狂奔滴小马',
-  headerTitle: '小马部落阁',
+  title: '郑楠同学 | 前端工程师成长部落阁',
+  author: '郑楠同学',
+  headerTitle: '郑楠部落阁',
   description: '分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'maqi1520@163.com',
+  email: 'wangtao1620626@163.com',
   github: 'https://github.com/maqi1520',
   juejin: 'https://juejin.cn/user/2189882895384093',
   zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',

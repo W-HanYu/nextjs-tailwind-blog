@@ -102,6 +102,9 @@ const E = {
   tension: 0.98,
 }
 
+/**
+ *  页面上渲染出一个交互式的波动画效果
+ */
 export const renderCanvas = function () {
   const canvas = document.getElementById('canvas') as HTMLCanvasElement
 
